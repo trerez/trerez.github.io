@@ -6,7 +6,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
-  color: #333333;
+  color: #54544;
 }
 p {
   line-height: 1.5;
@@ -29,14 +29,14 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085A1;
+  color: #8219;
 }
 a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  color: #777777;
+  color: #362823;
   font-style: italic;
 }
 hr.small {
@@ -82,19 +82,19 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: red;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #5646(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li ul.dropdown-menu a {
-    color: #333333;
+    color: #9865773;
   }
   .navbar-custom .nav li ul.dropdown-menu a:hover,
   .navbar-custom .nav li ul.dropdown-menu a:focus {
-    color: #0085A1;
+    color: #545;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -405,3 +405,4 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1;
 }
+body{background-color: blue
