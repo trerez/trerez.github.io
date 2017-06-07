@@ -6,7 +6,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
-  color: #54544;
+  color: #333333;
 }
 p {
   line-height: 1.5;
@@ -29,14 +29,14 @@ a {
 }
 a:hover,
 a:focus {
-  color: #8219;
+  color: #0085A1;
 }
 a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  color: #362823;
+  color: #777777;
   font-style: italic;
 }
 hr.small {
@@ -82,19 +82,19 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: red;
+    color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: #5646(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li ul.dropdown-menu a {
-    color: #9865773;
+    color: #333333;
   }
   .navbar-custom .nav li ul.dropdown-menu a:hover,
   .navbar-custom .nav li ul.dropdown-menu a:focus {
-    color: #545;
+    color: #0085A1;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -196,7 +196,8 @@ hr.small {
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
-  line-height: 1yyyy
+  line-height: 1.1;
+  display: block;Z
 }
 .intro-header .post-heading .subheading {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -213,7 +214,7 @@ hr.small {
 .intro-header .post-heading .meta a {
   color: white;
 }
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
   }
@@ -254,7 +255,7 @@ hr.small {
   color: #0085A1;
   text-decoration: underline;
 }
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
   }
@@ -394,7 +395,7 @@ form .row:first-child .floating-label-form-group {
   background: #0085A1;
 }
 img::selection {
-  color: blue;
+  color: white;
   background: transparent;
 }
 img::-moz-selection {
@@ -404,4 +405,3 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1;
 }
-body{background-color: #http://www.colorcombos.com/images/colors/8C001A.png;
