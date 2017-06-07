@@ -214,7 +214,7 @@ hr.small {
 .intro-header .post-heading .meta a {
   color: white;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 900px) {
   .intro-header .post-heading h1 {
     font-size: 55px;
   }
@@ -255,7 +255,7 @@ hr.small {
   color: #0085A1;
   text-decoration: underline;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 900px) {
   .post-preview > a > .post-title {
     font-size: 36px;
   }
@@ -395,7 +395,7 @@ form .row:first-child .floating-label-form-group {
   background: #0085A1;
 }
 img::selection {
-  color: white;
+  color: blue;
   background: transparent;
 }
 img::-moz-selection {
@@ -405,4 +405,4 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1;
 }
-body{background-color: blue
+body{background-color: #http://www.colorcombos.com/images/colors/8C001A.png;
